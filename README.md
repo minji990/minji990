@@ -3,25 +3,13 @@
 </div>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/300.gif" width="100" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/300.gif" width="130" />
 </p>
 
 ### 📋 About Me
 
 <div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center">
-          <br />
-          <h3 align="center">👋 안녕하세요, 김민지입니다!</h3>
-          <p align="center"></b> 영남대학교 컴퓨터공학과 4학년 재학중</p>
-          <p align="center">🌱 <b>관심 분야:</b> #Frontend </p>
-          <br />
-        </th>
-      </tr>
-    </thead>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=fffafb&height=180&section=header&text=👋%20안녕하세요,%20김민지입니다!&fontSize=35&fontColor=000000&desc=영남대학교%20컴퓨터공학과%204학년%20재학중%20|%20🌱%20#Frontend&descAlign=50&descSize=18&descAlignY=65" width="100%" />
 </div>
 
 <br/>
