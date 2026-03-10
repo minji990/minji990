@@ -47,8 +47,8 @@
 
 | 프로젝트명 | 설명 | 기간 | 기술 스택 | 링크 |
 | :--- | :--- | :--- | :--- | :---: |
-| **WaggleWaggle** | 대구·경북 대학생을 위한 프로젝트·과제·스터디 팀 매칭 플랫폼 | 25.07 - 25.12 | React, JavaScript | [LINK](https://github.com/Wagglex2/waggle-web.git) |
-| **Project 2** | 프로젝트의 핵심 기능을 한 줄로 설명해 주세요. | 26.03 - 진행중 | React, JavaScript | [Link](https://github.com) |
+| **WaggleWaggle** | 대구·경북 대학생을 위한 프로젝트·과제·스터디 팀 매칭 플랫폼 | 25.07 - 25.12 | React, JavaScript | https://github.com/Wagglex2/waggle-web.git |
+| **Project 2** | 아직 모름 | 26.03 - 진행중 | React, JavaScript | [Link](https://github.com) |
 
 ---
 
