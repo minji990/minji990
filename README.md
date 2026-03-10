@@ -6,13 +6,15 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/300.gif" width="130" />
 </p>
 
-### 📋 About Me
+## 👋 안녕하세요, 김민지입니다!
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=fffafb&height=180&section=header&text=👋%20안녕하세요,%20김민지입니다!&fontSize=35&fontColor=000000&desc=영남대학교%20컴퓨터공학과%204학년%20재학중%20|%20🌱%20#Frontend&descAlign=50&descSize=18&descAlignY=65" width="100%" />
-</div>
+- 🎓 **Education:** 영남대학교 컴퓨터공학과 4학년 재학중
+- 🌱 **Interest:** #Frontend #React #Web
 
-<br/>
+
+<br />
+
+---
 
 ## 🛠️ Tech Stacks
 
@@ -40,8 +42,10 @@
 
 | 프로젝트명 | 설명 | 기간 | 기술 스택 | 링크 |
 | :--- | :--- | :--- | :--- | :---: |
-| **WaggleWaggle** | 대구·경북 대학생을 위한 프로젝트·과제·스터디 팀 매칭 플랫폼 | 25.07 - 25.12 | React, JavaScript | [LINK](https://github.com/Wagglex2/waggle-web.git) |
-| **Project 2** | 프로젝트의 핵심 기능을 한 줄로 설명해 주세요. | 26.03 - 진행중 | React, JavaScript | [Link](https://github.com) |
+| **WaggleWaggle** | 대구·경북 대학생을 위한 매칭 플랫폼 | 25.07 - 25.12 | React, JavaScript | [LINK](https://github.com/Wagglex2/waggle-web.git) |
+| **Project 2** | 프로젝트 내용을 입력해주세요. | 26.03 - 진행중 | React, JavaScript | [Link](https://github.com) |
+
+<br />
 
 ---
 
@@ -55,5 +59,5 @@
 ## 🏅 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minji990&show_icons=true&theme=radical&title_color=32266e&text_color=000000&bg_color=ffffff00" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minji990&show_icons=true&theme=radical&title_color=f6d7d7&text_color=000000&bg_color=ffffff00" />
 </div>
