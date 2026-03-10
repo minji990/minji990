@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=32266e&height=180&text=MINJI's%20GITHUB&animation=fadeIn&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=8f8ca1&height=240&text=MINJI's%20GITHUB&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -32,8 +32,9 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=minji990&bg_color=180,c9c2ff,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji990&layout=compact&bg_color=180,c9c2ff,00000000&title_color=000000&text_color=000000"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats <div align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=minji990&show_icons=true&theme=radical&title_color=32266e&text_color=000000&bg_color=ffffff00" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji990&layout=compact&theme=radical&title_color=32266e&text_color=000000&bg_color=ffffff00" height="150" />
+</div>
     </div>
     
