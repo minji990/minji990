@@ -41,5 +41,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=minji990&show_icons=true&theme=radical&title_color=32266e&text_color=000000&bg_color=ffffff00" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji990&layout=compact&theme=radical&title_color=32266e&text_color=000000&bg_color=ffffff00" />
 
-## 🐍 My Contributions
-![snake gif](https://github-user-contents.githubusercontent.com/minji990/minji990/output/github-contribution-grid-snake.svg)
+## 📅 Contribution Graph
+![minji's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minji990&theme=dracula&area=true&hide_border=true)
