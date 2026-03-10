@@ -41,5 +41,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=minji990&show_icons=true&theme=radical&title_color=32266e&text_color=000000&bg_color=ffffff00" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji990&layout=compact&theme=radical&title_color=32266e&text_color=000000&bg_color=ffffff00" />
 
-## 📅 Contributions
-![minji's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minji990&theme=warm&hide_border=true&area=true)
+## 🟢 Contribution Calendar
+![minji's grass](https://ghchart.rshah.org/32266e/minji990)
