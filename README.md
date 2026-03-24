@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/300.gif" width="130" />
 </p>
 
-## 👋 안녕하세요, 김민지입니다!
+## 👋 안녕하세요, 김민지입니다.
 
 - 🎓 **Education:** 영남대학교 컴퓨터공학과 4학년 재학중
 - 🌱 **Interest:** #Frontend #React #Web
