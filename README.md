@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f6d7d7&height=240&text=MINJI's%20GITHUB&animation=fadeIn&fontColor=000000&fontSize=60" />
-</div>
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/300.gif" width="130" />
-</p>
-
 ## 👋 안녕하세요, 김민지입니다.
 
 - 🎓 **Education:** 영남대학교 컴퓨터공학과 4학년 재학중
